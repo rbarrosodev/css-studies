@@ -1,0 +1,29 @@
+body {
+  font-family: sans-serif;
+  color: green;
+}
+
+a {
+  color: green;
+}
+
+a:hover {
+  background-color: #ccc;
+}
+
+a:visited {
+  color: red;
+}
+
+a:active {
+  color: orange;
+}
+
+ul li {
+  list-style-type: circle;
+}
+
+ol li{
+  list-style-type: lower-latin;
+  list-style-position: inside;
+}
